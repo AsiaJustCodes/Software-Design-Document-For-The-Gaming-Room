@@ -1,6 +1,7 @@
 ***The Gaming Room software design Q/A***
+-A brief summary of The Gaming Room Client and their software requirements-
 
-**Briefly summarize The Gaming Room client and their software requirements. Who was the client?**
+**Who was the client?**
 
 **What type of software did they want you to design?**
 
