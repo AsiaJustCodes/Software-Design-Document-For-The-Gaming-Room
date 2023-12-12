@@ -1,4 +1,5 @@
 ***The Gaming Room software design Q/A***
+
 -A brief summary of The Gaming Room Client and their software requirements-
 
 **Who was the client?**
